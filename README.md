@@ -32,5 +32,6 @@ This repo was used to learn the concepts of Data Structures and Algorithms. It c
   - Randomized Algorithm
   - Branch and Bound
 
-# References
+## References
+
 - [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/?ref=shm)
